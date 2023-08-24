@@ -1,4 +1,4 @@
-### Hi there 👋🏽
+### Hi there, I'm Sakeena 👋🏽
 
 - 📚 I’m currently working on programming coursework 🤓
 - 💻 I’m learning software engineering @ WGU 🦉
