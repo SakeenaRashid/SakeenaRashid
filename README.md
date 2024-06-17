@@ -3,5 +3,5 @@
  - 📚 I’m working on programming/computer science coursework 🤓
  - 💻 Currently learning software engineering @ WGU 🦉
  - 📍 Michigan native ✋🏽 💙 💛
- - 💼 Acitvely seeking a part-time remote IT role or internship
- - 🥲 Fun fact: My daughter asked me if there were dinosaurs when I was a kid 🦖
+ - 💼 Acitvely seeking a full-time SWE (related) role
+ - 🔑 My fav hobby right now is prompt-engineering and creating in MJ
