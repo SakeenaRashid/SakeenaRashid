@@ -31,7 +31,7 @@ JavaScript  •  Python  •  Java  •  Node.js  •  React
 **Tools & Platforms**  
 AWS  •  MongoDB  •  Git  
 
-🎯 **Currently Exploring**  
+**Currently Exploring**  
 LLMs  •  AI Agents  •  MVP  •  AI Automations  •  Custom GPTs
 
 ### 🧠 My Learning Journey
