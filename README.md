@@ -14,17 +14,25 @@ Ambitious Software Engineer 🙌 | AI Enthusiast 🤖 | Builder of Things with C
 
 
 ### 📂 Featured Projects
-💼 [TechMatch] (https://techmatch-app-hire-me.s3.amazonaws.com/index.html)
+💼 [**TechMatch**](https://techmatch-app-hire-me.s3.amazonaws.com/index.html)  
 Tinder-style candidate matching web app built with modern JavaScript, designed to simplify the recruiting process with an intuitive swipe interface.
-🎯 [Resume to Recruited] (https://chatgpt.com/g/g-RkobfxgBE-resume-to-recruited)
-Custom GPT assistant integrated with Zapier and Google Calendar to generate personalized job search roadmaps and automate recruiter follow-ups. I’ll perform maintenance soon to make sure Zapier is still connecting as it did originally. 
-📄 [Whitepaper Whisperer] (coming soon)
-Chat-with-PDF web app built with Vite, JavaScript, and OpenAI that lets users ask questions about their white paper via a chat interface making a one-dimensional document now interactive.
+
+🎯 [**Resume to Recruited**](https://chatgpt.com/g/g-RkobfxgBE-resume-to-recruited)  
+Custom GPT assistant integrated with Zapier and Google Calendar to generate personalized job search roadmaps and automate recruiter follow-ups. I’ll perform maintenance soon to make sure Zapier is still connecting as it did originally.
+
+📄 [**Whitepaper Whisperer**] *(coming soon)*  
+Chat-with-PDF web app built with Vite, JavaScript, and OpenAI that lets users ask questions about their white paper via a chat interface, making a one-dimensional document now interactive.
 
 
 ### 🧰 Tech Stack
-`JavaScript` `Python` `Java` `Node.js` `React` `AWS` `MongoDB` `Git` 
-🎯 Exploring: `LLMs` `AI Agents` `MVP` `AI Automations` `Custom GPTs`
+**Languages & Frameworks**  
+JavaScript  •  Python  •  Java  •  Node.js  •  React  
+
+**Tools & Platforms**  
+AWS  •  MongoDB  •  Git  
+
+🎯 **Currently Exploring**  
+LLMs  •  AI Agents  •  MVP  •  AI Automations  •  Custom GPTs
 
 ### 🧠 My Learning Journey
 - 🏆 AWS Cloud Practitioner Certified
