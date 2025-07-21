@@ -14,7 +14,7 @@ Ambitious Software Engineer 🙌 | AI Enthusiast 🤖 | Builder of Things with C
 
 ### 💼 Developer Portfolio
 📌 [**Sakeena's Portfolio**](https://www.notion.so/Sakeena-Rashid-Software-Engineer-AI-Cloud-Developer-2340983c770f80ea8257fb053de89f15?source=copy_link)  
-A selection of projects I've created, includeing mobile and web apps.
+A selection of projects I've created, including mobile and web apps.
 
 ### 📂 Featured Projects
 📱 [**TechMatch**](https://techmatch-app-hire-me.s3.amazonaws.com/index.html)  
