@@ -12,9 +12,12 @@ Ambitious Software Engineer 🙌 | AI Enthusiast 🤖 | Builder of Things with C
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SakeenaRashid&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakeenaRashid&layout=compact&theme=radical)
 
+### 💼 Developer Portfolio
+📌 [**Sakeena's Portfolio**](https://www.notion.so/Sakeena-Rashid-Software-Engineer-AI-Cloud-Developer-2340983c770f80ea8257fb053de89f15?source=copy_link)  
+A selection of projects I've created, includeing mobile and web apps.
 
 ### 📂 Featured Projects
-💼 [**TechMatch**](https://techmatch-app-hire-me.s3.amazonaws.com/index.html)  
+📱 [**TechMatch**](https://techmatch-app-hire-me.s3.amazonaws.com/index.html)  
 Tinder-style candidate matching web app built with modern JavaScript, designed to simplify the recruiting process with an intuitive swipe interface.
 
 🎯 [**Resume to Recruited**](https://chatgpt.com/g/g-RkobfxgBE-resume-to-recruited)  
